@@ -1,0 +1,6 @@
+// sass --watch sass:css --style compressed
+@import '_vars';
+body {
+  background-color: $background-color;
+  color: $master-font-color;
+}
